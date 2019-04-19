@@ -7,7 +7,7 @@ import (
 	_ "github.com/CPF999/cpfChain/plugin"
 
 	"github.com/33cn/chain33/util/cli"
-	"github.com/GM-Publicchain/gm/cli/buildflags"
+	"github.com/CPF999/cpfChain/cli/buildflags"
 )
 
 func main() {
